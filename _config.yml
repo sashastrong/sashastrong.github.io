@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sasha Strong"
 title_separator          : "-"
 name                     : &name "Sasha Strong"
-description              : &description "Contemplative psychotherapist, mindfulness researcher, and non-binary gender therapist"
+description              : &description "Contemplative psychotherapist, mindfulness researcher, and radical queer gender therapist"
 url                      : https://sashastrong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sashastrong.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sasha D. Strong"
   avatar           : "profile.png"
-  bio              : "Contemplative psychotherapist, mindfulness researcher, and non-binary gender therapist"
+  bio              : "Contemplative psychotherapist, mindfulness researcher, and radical queer gender therapist"
   location         : "Portland OR, USA"
   employer         :
   pubmed           : 
