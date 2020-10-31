@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Sasha Strong. I'm a psychotherapist in private practice in Portland OR and a Ph.D. candidate at the California Institute of Integral Studies in San Francisco. My dissertation research focuses on how people use Buddhist mindfulness practice to recover from bipolar disorder. In my clinical work, I focus on helping transgender, non-binary, genderqueer, and gender non-conforming folks. I've also done some qualitative research on non-binary and genderqueer cultural competency in healthcare, and I offer trainings based on that work. As an entrepreneur, researcher, student, educator, and human being, I end up wearing a lot of hats. 
+Hi! I'm Sasha Strong. I'm a psychotherapist in private practice in Portland, Oregon and a PhD candidate at the California Institute of Integral Studies in San Francisco. My dissertation research focuses on how people use Buddhist mindfulness practice to recover from bipolar disorder. In my clinical work, I focus on helping transgender, non-binary, genderqueer, and gender non-conforming folks. I've also done some qualitative research on non-binary and genderqueer cultural competency in healthcare, and I offer trainings based on that work. As an entrepreneur, researcher, student, educator, and human being, I end up wearing a lot of hats. 
 
 As of 30 Oct 2020, this site is under active development, so please forgive the dust. ;)
 
