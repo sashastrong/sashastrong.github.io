@@ -14,7 +14,7 @@ As of 30 Oct 2020, this site is under active development, so please forgive the 
 
 My background 
 ======
-I'm currently a PhD student in [East-West Psychology](https://www.ciis.edu/academics/graduate-programs/east-west-psychology/) at the California Institute of Integral Studies. I earned my MA in [Contemplative Psychotherapy](https://www.naropa.edu/academics/masters/clinical-mental-health-counseling/contemplative-psychotherapy-buddhist-psychology/index.php) at Naropa University in Boulder, CO, and my BA in French Studies with a minor in Graphic Design from the University of Wisconsin-Parkside. While at CIIS, I was a fellow of the Center for Writing and Scholarship, a teaching assistant in the Community Mental Health program and the East-West Psychology department, and adjunct faculty in the Integral and Transpersonal Psychology department.
+I'm currently a PhD student in [East-West Psychology](https://www.ciis.edu/academics/graduate-programs/east-west-psychology/) at the California Institute of Integral Studies. I earned my MA in [Contemplative Psychotherapy](https://www.naropa.edu/academics/masters/clinical-mental-health-counseling/contemplative-psychotherapy-buddhist-psychology/index.php) at Naropa University in Boulder, CO, and my BA in French Studies with a minor in Graphic Design from the University of Wisconsin-Parkside. I spent some time in Belgium after high school, and I speak fluent French.
 
 My interests
 ======
@@ -28,7 +28,7 @@ My teaching
 ======
 As for teaching, I've offered gender competency trainings, taught stress management at a community college, given invited talks on contemplative psychotherapy and gender therapy, and created video courses for a Transpersonal Psychology PhD program. I've also worked on the editorial staff of a transpersonal psychology journal and have served as a newsletter editor for a professional counseling organization.
 
-My clinical Work
+My clinical work
 ======
 In terms of my psychotherapy practice, I'm a Licensed Professional Counselor in Oregon USA, and I'm qualified to provide clinical supervisor for LPC and LMFT interns. In my private practice, I incorporate contemplative psychotherapy, Hakomi embodied mindfulness-based counseling, dialectical behavior thearapy, common factors theory, and humanistic and transpersonal frameworks to provide a personalized approach. The main populations I serve are trans and gender non-conforming individuals, for whom I offer individual therapy, gender support groups, and assessments of readiness for gender-affirming procedures (i.e. gender letters). However, my work is not limited to the gender-diverse; I also enjoy working with counseling trainees, individuals who have experienced initial psychotic episodes or anomolous experiences and wish to integrate them, and those seeking to integrate embodiment pratices with experiential trauma recovery.
 

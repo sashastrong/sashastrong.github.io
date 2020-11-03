@@ -14,11 +14,12 @@ Education
 * B.A. in French Studies, minor in Art, concentration in Graphic Design, University of Wisconsin-Parkside, 2003
 * M.A. in Psychology: Contemplative Psychotherapy, Naropa University, 2013
 * Ph.D in East-West Psychology, California Institute of Integral Studies, 2021 (expected)
+Dissertation topic: Contemplative psychotherapy, Buddhist mindfulness practice, and recovery from bipolar disorder
 
 Work experience
 ======
 * Jun 2016–present: **Psychotherapist in Independent Practice**
-  * Brilliancy Counseling
+  * Brilliancy Counseling, Portland OR, USA
   * Duties included: Managing all aspects of client care and administration in a solo private practice focused on LGBTQ+ care, somatic psychotherapy, contemplative psychotherapy, and transpersonal integration
 
 * Oct 2018–Jun 2019: **Submissions Editor**
@@ -28,16 +29,16 @@ Work experience
 
 * Jun 2017–Aug 2018: **Adjunct Faculty**
   * Integral and Transpersonal Psychology PhD, California Institute of Integral Studies
-  * Duties included: Developing and recording video lectures for Introduction to Psychology GRE prep course; project management
+  * Duties included: Developing and recording video lectures for Introduction to Psychology GRE prep course
   * Supervisors: Glenn Hartelius
   
 * Sept 2016–Jun 2017: **UI Designer**
   * International Journal of Transpersonal Studies
-  * Duties included: Creating a visual identity and user interface for an academic journal publishing platform hosted on an institutional repostory; coordinating with the vendor
+  * Duties included: Creating a visual identity and user interface for an academic journal publishing platform hosted on an institutional repostory
   * Supervisors: Glenn Hartelius and Courtenay Crouch
 
 * Sept 2016–Jun 2017: **Adjunct Faculty**
-  * Portland Community College
+  * Portland Community College, Portland OR, USA
   * Duties included: Teaching a Stress Management course for 3 quarter terms; designing curriculum, delivering lectures, grading coursework
   * Supervisor: Angelina Davis
 
@@ -48,7 +49,7 @@ Work experience
   
 * Mar 2014–Nov 2014: **Assistive Technology Coach**
   * Student Affairs Office, California Institute of Integral Studies
-  * Duties included: Coaching differently-abled students in using assistive technologies in their studies; training office staff to perform OCR scanning; strategic consulting with the acting director
+  * Duties included: Coaching differently-abled students in using assistive technologies in their studies; training office staff to perform OCR scanning
   
 * Jan 2014–Dec 2014: **Writing Fellow**
   * Center for Writing and Scholarship, California Institute of Integral Studies
@@ -57,25 +58,24 @@ Work experience
   
 * Aug 2013–Jun 2015: **Program Assistant**
   * East-West Psychology Department, California Institute of Integral Studies
-  * Duties included: Support with administration, audiovisual presentations, logistics, and graphic design for an academic department; created a metadata-searchable database of exemplary dissertation proposals to support doctoral students in their research training
+  * Duties included: Support with administration, audiovisual presentations, logistics, and graphic design for an academic department; created a metadata-searchable database of dissertation proposals
   * Supervisor: Ishtar Kramer
   
 * Aug 2013: **Teaching Assistant**
   * East-West Psychology Department, California Institute of Integral Studies
-  * Duties included: Assisting faculty with an academic retreat intensive; leading workshops, coordinating student activities, creating an uplifted retreat setting
+  * Duties included: Assisting faculty with an academic retreat intensive; leading workshops, coordinating student activities
   * Supervisors: Jorge Ferrer and Ishtar Kramer
 
   
 Skills
 ======
-* Counseling
+* Counseling and supervision
+* Group facilitation
 * Qualitative research
 * Curriculum development
-* Graphic design and typesetting
-* Basic web design
-* Basic audio and video editing and recording
+* Graphic design and editing
+* Basic web design and audiovisual skills
 * Project management
-* Group facilitation
 * Writing and research coaching
 * Academic journal copyediting and desk review
 * Fluent French
