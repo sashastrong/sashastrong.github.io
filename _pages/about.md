@@ -26,7 +26,7 @@ I'm currently focused on finishing my Ph.D. My three-article dissertation is mos
 
 Teaching
 ======
-I have taught as adjunct faculty at graduate and undergraduate levels, worked as a teaching assistant, given invited talks on psychotherapy and mindfulness, and offered gender competency trainings. These pages have more info on the [teaching](https://sashastrong.github.io/teaching/) and [talks](https://sashastrong.github.io/talks/) I've done.
+I have [taught](https://sashastrong.github.io/teaching/) as adjunct faculty at graduate and undergraduate levels, worked as a teaching assistant, given invited [talks](https://sashastrong.github.io/talks/) on psychotherapy and mindfulness, and offered gender competency trainings. I am also a certified mindfulness instructor and have offered community workshops.
 
 Clinical work
 ======

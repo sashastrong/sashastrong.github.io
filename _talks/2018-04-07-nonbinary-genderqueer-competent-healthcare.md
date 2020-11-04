@@ -8,4 +8,4 @@ date: 2018-04-07
 location: "Portland, OR"
 ---
 
-Gave a 2-hour presentation to naturopathic medicine students at their weekly Grand Rounds on cultural awareness of nonbinary, genderqueer, and other gender-expansive patients in healthcare.
+Grand Rounds presentation to naturopathic medicine students on cultural awareness of nonbinary, genderqueer, and other gender-expansive patients in healthcare.

@@ -44,7 +44,7 @@ Work experience
 
 * Aug 2014-Dec 2014: **Teaching Assistant**
   * Community Mental Health MA, California Institute of Integral Studies
-  * Duties included: Assisting faculty with a capstone Master's paper course; lecturing on academic writing standards and approaches, giving feedback to students on their written work; consulting with students on their writing and research processes
+  * Duties included: Assisting faculty with teaching a capstone Master's paper course
   * Supervisor: Steven Tierney
   
 * Mar 2014–Nov 2014: **Assistive Technology Coach**
