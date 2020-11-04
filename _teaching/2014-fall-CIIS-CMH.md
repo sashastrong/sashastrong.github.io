@@ -9,4 +9,4 @@ location: "San Francisco, CA"
 ---
 
 
-Served as teaching assistant; helped faculty with a capstone Master's paper course. Lectured on academic writing standards and approaches, gave feedback to students on their written work, and consulted with students on their writing and research processes.
+Assisted faculty with a capstone Master's paper course. Lectured on academic writing standards and approaches, gave feedback to students on their written work, and consulted with students on their writing and research processes.
