@@ -18,7 +18,7 @@ I'm currently a PhD student in [East-West Psychology](https://www.ciis.edu/acade
 
 My interests
 ======
-My clinical and academic interests include Buddhism, psychotherapy, mindfulness, queer and trans issues, critical theory, and social justice. As I mentioned above, I wear a lot of hats, and these different roles compete in interesting ways. I find that responding to the demands of my different commitments entails a certain style of attentional plasticity, and I think my background in mindfulness practice, research, and psychotherapy help me keep thing rolling.
+My clinical and academic interests include psychotherapy, mindfulness, queer and trans issues, Buddhism, critical theory, and social justice. I have also studied and practiced Hakomi body—centered psychotherapy, Dialectical Behavior Therapy, humanistic and transpersonal psychology, and the therapeutic common factors.
 
 My research
 ======
@@ -30,6 +30,6 @@ As for teaching, I've offered gender competency trainings, taught stress managem
 
 My clinical work
 ======
-In terms of my psychotherapy practice, I'm a Licensed Professional Counselor in Oregon USA, and I'm qualified to provide clinical supervisor for LPC and LMFT interns. In my private practice, I incorporate contemplative psychotherapy, Hakomi embodied mindfulness-based counseling, dialectical behavior thearapy, common factors theory, and humanistic and transpersonal frameworks to provide a personalized approach. The main populations I serve are trans and gender non-conforming individuals, for whom I offer individual therapy, gender support groups, and assessments of readiness for gender-affirming procedures (i.e. gender letters). However, my work is not limited to the gender-diverse; I also enjoy working with counseling trainees, individuals who have experienced initial psychotic episodes or anomolous experiences and wish to integrate them, and those seeking to integrate embodiment pratices with experiential trauma recovery.
+In terms of my psychotherapy practice, I'm a Licensed Professional Counselor in Oregon, where I'm qualified to provide clinical supervisor for LPC and LMFT interns. The main populations I serve are trans and gender non-conforming individuals, for whom I offer individual therapy, gender support groups, and assessments of readiness for gender-affirming procedures. I also enjoy working with counseling trainees, folks who want to integrate initial psychotic episodes or extraordinary experiences, and those seeking to recover from trauma using social, somatic, and transpersonal approaches.
 
 

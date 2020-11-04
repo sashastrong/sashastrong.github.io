@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Master's Paper"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-fall-CIIS-CMH
@@ -9,4 +9,4 @@ location: "San Francisco, CA"
 ---
 
 
-Assisted faculty with a capstone Master's paper course. Lecturing on academic writing standards and approaches, gave feedback to students on their written work; and consulted with students on their writing and research processes.
+Served as teaching assistant; helped faculty with a capstone Master's paper course. Lectured on academic writing standards and approaches, gave feedback to students on their written work, and consulted with students on their writing and research processes.
