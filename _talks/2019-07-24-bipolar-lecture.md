@@ -8,4 +8,4 @@ date: 2019-07-24
 location: "Portland, OR"
 ---
 
-Presented on evidence-supported treatments for bipolar disorder and the preliminary results of a qualitative study on recovery from bipolar using Buddhist mindfulness practices.
+Lectured on evidence-supported treatments and preliminary results from a qualitative study on recovery from bipolar disorder using Buddhist mindfulness practice.
