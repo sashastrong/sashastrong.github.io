@@ -1,5 +1,5 @@
 ---
-title: "Stress Management"
+title: "Adjunct Faculty"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-fall-PCC
