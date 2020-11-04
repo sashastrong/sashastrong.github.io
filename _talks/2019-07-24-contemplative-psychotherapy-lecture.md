@@ -9,3 +9,4 @@ location: "Portland, OR"
 ---
 
 Presented on contemplative psychotherapy, clinician mindfulness, and the common therapeutic factors for a graduate course in professional counseling.
+

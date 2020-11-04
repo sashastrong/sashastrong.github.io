@@ -39,7 +39,7 @@ Work experience
 
 * Sept 2016–Jun 2017: **Adjunct Faculty**
   * Portland Community College, Portland OR, USA
-  * Duties included: Teaching a Stress Management course for 3 quarter terms; designing curriculum, delivering lectures, grading coursework
+  * Duties included: Teaching three terms of a Stress Management course to community college students
   * Supervisor: Angelina Davis
 
 * Aug 2014-Dec 2014: **Teaching Assistant**
