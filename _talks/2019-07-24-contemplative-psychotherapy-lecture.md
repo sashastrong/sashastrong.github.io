@@ -8,5 +8,5 @@ date: 2019-07-24
 location: "Portland, OR"
 ---
 
-Presented on contemplative psychotherapy, clinician mindfulness, and the common therapeutic factors for a graduate course in professional counseling.
+Presented on contemplative psychotherapy, clinician mindfulness, and the common therapeutic factors to a graduate course in professional counseling.
 

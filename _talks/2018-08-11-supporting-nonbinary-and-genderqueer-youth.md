@@ -1,7 +1,7 @@
 ---
 title: "Supporting Non-Binary and Genderqueer Youth"
 collection: talks
-type: "Invited lecture"
+type: "Conference presentation"
 permalink: /talks/2018-08-11-supporting-nonbinary-and-genderqueer-youth
 venue: "Gender Odyssey Professional"
 date: 2018-08-11

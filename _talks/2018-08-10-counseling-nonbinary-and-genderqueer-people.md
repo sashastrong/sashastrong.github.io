@@ -1,7 +1,7 @@
 ---
 title: "Counseling Non-Binary and Genderqueer People"
 collection: talks
-type: "Invited lecture"
+type: "Conference presentation"
 permalink: /talks/2018-08-10-counseling-nonbinary-and-genderqueer-people
 venue: "Gender Odyssey Professional"
 date: 2018-08-10
