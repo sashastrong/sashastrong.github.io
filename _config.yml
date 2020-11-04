@@ -187,7 +187,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+# added 4 Nov 2020
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -244,7 +247,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _projects - added 4 Nov 2020
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true 
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
