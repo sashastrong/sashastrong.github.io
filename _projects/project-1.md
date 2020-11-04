@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Buddhist mindfulness in recovery from bipolar disorder"
+excerpt: "A qualitative interview study<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I conducted this qualitative study for my dissertation. Although the papers haven't been published yet, here are some resources related to that project.
+
+## Study Findings
+
+<img src='/images/bipolar-qual-study/mindfulness-overview.png'>
+
+## Slide Deck
+
+"Bipolar disorder and preliminary results of a qualitative study on recovery through Buddhist meditation" - [Slide deck](http://sashastrong.github.io/files/bipolar-recovery/strong-2019-LC-slides-bipolar-recovery.pdf)
