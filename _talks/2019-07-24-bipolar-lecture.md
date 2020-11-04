@@ -3,7 +3,7 @@ title: "Bipolar Disorder: Treatments and Qualitative Study Results"
 collection: talks
 type: "Invited lecture"
 permalink: /talks/2019-07-24-bipolar-lecture
-venue: "Lewis and Clark College"
+venue: "Clinical Mental Health Department, Lewis and Clark College"
 date: 2019-07-24
 location: "Portland, OR"
 ---
