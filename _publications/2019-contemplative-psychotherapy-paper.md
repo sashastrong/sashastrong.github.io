@@ -8,8 +8,9 @@ venue: 'Journal of Psychotherapy Integration'
 paperurl: 'http://sashastrong.github.io/files/strong-2019-contemplative-psychotherapy-and-the-common-factors.pdf'
 citation: 'Strong, S. D. (2019). &quot;Contemplative psychotherapy: Clinician mindfulness, Buddhist psychology, and the therapeutic common factors.&quot; <i>Journal of Psychotherapy Integration</i>. Advance online publication. [https://doi.org/10.1037/int0000191](https://doi.org/10.1037/int0000191)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Strong, S. D. (2019). Contemplative psychotherapy: Clinician mindfulness, Buddhist psychology, and the therapeutic common factors. <i>Journal of Psychotherapy Integration.</i> Advance online publication. [https://doi.org/10.1037/int0000191](https://doi.org/10.1037/int0000191)
+
+[Download paper here](http://sashastrong.github.io/files/strong-2019-contemplative-psychotherapy-and-the-common-factors.pdf)
+
+Recommended citation in MD body: Strong, S. D. (2019). Contemplative psychotherapy: Clinician mindfulness, Buddhist psychology, and the therapeutic common factors. <i>Journal of Psychotherapy Integration.</i> Advance online publication. [https://doi.org/10.1037/int0000191](https://doi.org/10.1037/int0000191)
