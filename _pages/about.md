@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Sasha Strong. I'm a psychotherapist in private practice at [Brilliancy Counseling](https://www.brilliancycounseling.com) in Portland, Oregon. I'm also a PhD candidate at the California Institute of Integral Studies in San Francisco, where my dissertation research focuses on how people use Buddhist mindfulness practice to recover from bipolar disorder. I also offer trainings on transgender, non-binary and genderqueer cultural competency in healthcare.
+Hi! I'm Sasha Strong. I'm a psychotherapist in private practice at [Brilliancy Counseling](https://www.brilliancycounseling.com) in Portland, Oregon. I'm also a PhD candidate at the California Institute of Integral Studies, where my dissertation research focuses on how people use Buddhist mindfulness practice to recover from bipolar disorder. I also offer trainings on transgender, non-binary and genderqueer cultural competency in healthcare.
 
 *As of 30 Oct 2020, this site is under active development. Please pardon the dust. ;)*
 
 My background 
 ======
-I'm currently a PhD candidate in [East-West Psychology](https://www.ciis.edu/academics/graduate-programs/east-west-psychology/) at the California Institute of Integral Studies. I earned my MA in [Contemplative Psychotherapy](https://www.naropa.edu/academics/masters/clinical-mental-health-counseling/contemplative-psychotherapy-buddhist-psychology/index.php) at Naropa University in Boulder, CO, and my BA in French Studies from the University of Wisconsin-Parkside. I spent some time in Belgium after high school, and I speak fluent French.
+I'm currently a PhD candidate in [East-West Psychology](https://www.ciis.edu/academics/graduate-programs/east-west-psychology/) at the California Institute of Integral Studies in  in San Francisco, CA. I earned my MA in [Contemplative Psychotherapy](https://www.naropa.edu/academics/masters/clinical-mental-health-counseling/contemplative-psychotherapy-buddhist-psychology/index.php) at Naropa University in Boulder, CO, and my BA in French Studies from the University of Wisconsin-Parkside. I spent some time in Belgium after high school, and I speak fluent French.
 
 My interests
 ======

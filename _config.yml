@@ -83,13 +83,13 @@ author:
   name             : "Sasha D. Strong"
   avatar           : "profile.png"
   bio              : "Contemplative psychotherapist, mindfulness researcher, and transgender advocate"
-  employer         : "Brilliancy Counseling"
   location         : "Portland OR, USA"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0AtN8i4AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : [Brilliancy Counseling](http://www.brilliancycounseling.com)
+  uri              : "http://www.brilliancycounseling.com"
   bitbucket        :
   codepen          :
   dribbble         :
