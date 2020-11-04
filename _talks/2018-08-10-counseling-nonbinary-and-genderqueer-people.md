@@ -1,5 +1,5 @@
 ---
-title: "2018-08-10-counseling-nonbinary-and-genderqueer-people"
+title: "Counseling Non-Binary and Genderqueer People"
 collection: talks
 type: "Invited lecture"
 permalink: /talks/2018-08-10-counseling-nonbinary-and-genderqueer-people
