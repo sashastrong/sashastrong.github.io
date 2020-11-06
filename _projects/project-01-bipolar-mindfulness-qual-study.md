@@ -161,13 +161,13 @@ An overarching goal of all these practices which seemed to reflect the thorough 
 
 Other findings not reported in depth here include participants' reports of the lived experience of bipolar disorder and principles of recovery.
 
-<img src='/images/bipolar-qual-study/matrix-of-recovery.png' width=500 alt="Diagram: Matrix of Recovery">
+<img src='/images/bipolar-qual-study/other-findings.png' width=500 alt="Diagram: Other findings">
 
 Hopefully future publications can examine these findings in more depth.
 
 # Implications
 
-These findings suggest that Buddhist-informed mindfulness practice may have adaptive value for some individuals with bipolar disorder. Adopting a recovery lens could enhance outcomes and influence the course of future research. Further research is necessary to investigate possible formluations of these findings into a clinical intervention and to evaluate its effectiveness in outcome research. Finally, findings about diverse practices and unique, personalized approaches to recovery suggest that a 'craft' approach to recovery may be helpful, in which wellness is an ongoing pursuit of optimization and exploration, rather than a set endpoint.
+These findings suggest that Buddhist-informed mindfulness practice may have adaptive value for some individuals with bipolar disorder. Adopting a recovery lens could enhance outcomes and influence the course of future research. Further research is necessary to investigate possible formulations of these findings into a clinical intervention and to evaluate its effectiveness in outcome research. Finally, findings about diverse practices and unique, personalized approaches to recovery suggest that a 'craft' approach to recovery may be helpful, in which wellness is an ongoing pursuit of optimization and exploration, rather than a set endpoint.
 
 # Other Resources
 
