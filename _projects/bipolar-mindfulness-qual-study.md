@@ -1,7 +1,7 @@
 ---
 title: "Buddhist mindfulness in recovery from bipolar disorder"
 excerpt: "A qualitative interview study"
-collection: portfolio
+collection: projects
 ---
 
 I conducted this qualitative study for my dissertation. Although the papers haven't been published yet, here are some resources related to that project.
