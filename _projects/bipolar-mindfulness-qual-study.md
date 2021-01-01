@@ -1,6 +1,6 @@
 ---
 title: "Buddhist mindfulness in recovery from bipolar disorder"
-excerpt: "A qualitative interview study"
+excerpt: "A qualitative interview study <br/><img src='/images/bipolar-qual-study/matrix-of-recovery-smaller-preview.png'>"
 collection: projects
 ---
 
