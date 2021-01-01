@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Sasha Strong. I'm a psychotherapist in private practice at [Brilliancy Counseling](https://www.brilliancycounseling.com) in Portland, Oregon. I'm also a PhD candidate at the California Institute of Integral Studies, where my dissertation research focuses on how people use Buddhist mindfulness practice to recover from bipolar disorder. I also offer trainings on transgender, non-binary and genderqueer cultural competency in healthcare.
 
-*As of 30 Oct 2020, this site is under active development. Please pardon the dust. ;)*
+*This site is under development. Please pardon the dust. ;)*
 
 My background 
 ======
